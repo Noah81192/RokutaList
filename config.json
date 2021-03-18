@@ -1,0 +1,20 @@
+{
+  "bot": {
+    "token": "ODEwNjE3OTQ4NDY0ODczNTQy.YCmQyw.Ok3k5TnwJar9RHmD3xILZUX_tLo",
+    "secret": "mSJaXnpTaEHnYvzF18u4NREArgWoM2dr",
+    "ownerId": "218459216145285121",
+    "activity": "dlist.xyz",
+    "id": "810617948464873542"
+  },
+  "api": {
+    "url": "https://rokutalist.netlify.app/api/v1",
+    "port": 3000,
+    "supportInvite": "uDTgxyg"
+  },
+  "guild": {
+    "id": "744166274028011561",
+    "reportChannelId": "745252436976861224"
+  },
+  "dashboardURL": "https://rokutalist.netlify.app/dashboard",
+  "mongoURL": "mongodb+srv://test:test@cluster0.v8e58.mongodb.net/DiscordBotList?retryWrites=true&w=majority"
+}
